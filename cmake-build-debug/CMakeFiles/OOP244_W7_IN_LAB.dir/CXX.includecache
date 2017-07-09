@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zhi/OOP244_W7_IN_LAB/Hero.cpp
+cstring
+-
+iostream
+-
+Hero.h
+C:/Users/zhi/OOP244_W7_IN_LAB/Hero.h
+
+C:/Users/zhi/OOP244_W7_IN_LAB/Hero.h
+iostream
+-
+
+C:/Users/zhi/OOP244_W7_IN_LAB/w7_in_lab.cpp
+iostream
+-
+Hero.h
+C:/Users/zhi/OOP244_W7_IN_LAB/Hero.h
+

@@ -1,0 +1,3 @@
+C:/Users/zhi/OOP244_W7_IN_LAB/cmake-build-debug/CMakeFiles/OOP244_W7_IN_LAB.dir
+C:/Users/zhi/OOP244_W7_IN_LAB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zhi/OOP244_W7_IN_LAB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
